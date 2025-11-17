@@ -260,10 +260,6 @@ We welcome contributions! Please follow these steps:
 - Update documentation as needed
 - Ensure code passes linting
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Ultralytics** for the YOLOv8 implementation
