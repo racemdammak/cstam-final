@@ -270,12 +270,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **shadcn/ui** for beautiful components
 - **Framer Motion** for smooth animations
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/nutrisense-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/nutrisense-ai/discussions)
-- **Email**: support@nutrisense.ai
-
 ---
 
 **Made with ❤️ for healthy living**
