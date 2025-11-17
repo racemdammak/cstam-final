@@ -160,8 +160,10 @@ The backend API will be available at `http://localhost:8000`
 Create a `.env` file in the root directory (not committed to git):
 
 ```env
-# Google Fit Integration
-VITE_GOOGLE_FIT_CLIENT_ID=your_google_fit_client_id
+REACT_APP_GOOGLE_FIT_CLIENT_ID=xxx
+VITE_GOOGLE_FIT_CLIENT_ID=xxx
+GROQ_API_KEY=xxx
+GROQ_MODEL=llama-3.3-70b-versatile
 
 # Other environment variables as needed
 ```
