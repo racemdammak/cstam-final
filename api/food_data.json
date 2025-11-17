@@ -1,0 +1,133 @@
+{
+  "tunisian_cuisine": {
+    "description": "Tunisian food is known for its vibrant flavors, using spices like harissa, cumin, and coriander. It often features semolina, olives, tomatoes, and seafood.",
+    "dishes": [
+      {
+        "name": "Asida",
+        "description": "A thick, sweet porridge made from flour, typically served with a honey-butter sauce or date syrup.",
+        "carbs_g": "60-80",
+        "calories": "300-450",
+        "protein_g": "5-8"
+      },
+      {
+        "name": "Baklawa",
+        "description": "A sweet, rich pastry made of layers of phyllo dough, filled with chopped nuts and soaked in honey syrup.",
+        "carbs_g": "30-40",
+        "calories": "250-350",
+        "protein_g": "3-5"
+      },
+      {
+        "name": "Brik",
+        "description": "A thin, crispy pastry (malsouka) triangle filled with a whole egg, tuna, capers, and parsley.",
+        "carbs_g": "20-25",
+        "calories": "250-350",
+        "protein_g": "12-15"
+      },
+      {
+        "name": "Chakchouka",
+        "description": "A savory dish of peppers, onions, and tomatoes stewed with spices and topped with poached eggs.",
+        "carbs_g": "10-15",
+        "calories": "200-300",
+        "protein_g": "10-12"
+      },
+      {
+        "name": "Couscous",
+        "description": "Steamed semolina grains served with a savory stew of meat (lamb, chicken) and vegetables.",
+        "carbs_g": "45-60",
+        "calories": "450-600",
+        "protein_g": "20-30"
+      },
+      {
+        "name": "Fricassé",
+        "description": "A deep-fried, boat-shaped bun stuffed with tuna, harissa, boiled potato, olives, and an egg.",
+        "carbs_g": "30-40",
+        "calories": "300-400",
+        "protein_g": "10-15"
+      },
+      {
+        "name": "Harissa",
+        "description": "A very spicy and flavorful chili pepper paste, used as a condiment.",
+        "carbs_g": "3-4",
+        "calories": "15-25",
+        "protein_g": "0.5"
+      },
+      {
+        "name": "Hlou",
+        "description": "A sweet fruit salad or compote often made with peaches, apricots, and rose water, served for celebrations.",
+        "carbs_g": "25-35",
+        "calories": "150-250",
+        "protein_g": "1-2"
+      },
+      {
+        "name": "Kafteji",
+        "description": "A dish of deep-fried, chopped vegetables (peppers, potatoes, squash) mixed together and served with bread.",
+        "carbs_g": "40-50",
+        "calories": "350-450",
+        "protein_g": "5-8"
+      },
+      {
+        "name": "Kamouniya",
+        "description": "A hearty, cumin-heavy stew, usually made with beef or lamb, chickpeas, and spinach.",
+        "carbs_g": "20-30",
+        "calories": "300-400",
+        "protein_g": "25-35"
+      },
+      {
+        "name": "Lablabi",
+        "description": "A hearty, spicy chickpea soup flavored with garlic, cumin, and olive oil, often eaten for breakfast.",
+        "carbs_g": "40-50",
+        "calories": "300-400",
+        "protein_g": "15-20"
+      },
+      {
+        "name": "Liftiyya",
+        "description": "A slow-cooked lamb or beef stew from Sfax, featuring fermented rye for a unique sour flavor.",
+        "carbs_g": "25-35",
+        "calories": "350-500",
+        "protein_g": "30-40"
+      },
+      {
+        "name": "Melloukhia",
+        "description": "A unique stew made from jute leaves, cooked into a thick, viscous green sauce and served with bread or couscous.",
+        "carbs_g": "10-15",
+        "calories": "200-300",
+        "protein_g": "20-30"
+      },
+      {
+        "name": "Pasta",
+        "description": "Typically refers to short pasta (like penne) cooked in a rich, spicy tomato and meat sauce.",
+        "carbs_g": "50-65",
+        "calories": "400-550",
+        "protein_g": "15-25"
+      },
+      {
+        "name": "Salade Mechweya",
+        "description": "A smoky grilled salad made from charred peppers, tomatoes, and onions, mixed with tuna and olives.",
+        "carbs_g": "10-15",
+        "calories": "150-250",
+        "protein_g": "5-8"
+      },
+      {
+        "name": "Sandwich Tounsi",
+        "description": "A classic baguette sandwich stuffed with tuna, egg, olives, harissa, grilled peppers, and fries.",
+        "carbs_g": "50-70",
+        "calories": "450-600",
+        "protein_g": "15-20"
+      },
+      {
+        "name": "Zgougou",
+        "description": "A festive dessert pudding made from aleppo pine nuts, topped with whipped cream and nuts.",
+        "carbs_g": "40-50",
+        "calories": "300-400",
+        "protein_g": "5-10"
+      }
+    ],
+    "nutritional_notes": {
+      "highest_carbs": ["Couscous", "Sandwich Tounsi", "Pasta", "Asida"],
+      "highest_calories": ["Couscous", "Sandwich Tounsi", "Pasta", "Liftiyya"],
+      "highest_protein": ["Liftiyya", "Kamouniya", "Melloukhia", "Couscous"],
+      "lowest_carbs_calories": ["Harissa", "Salade Mechweya", "Chakchouka"],
+      "disclaimer": "Values are estimates per typical serving. Actual nutritional content can vary based on recipe, portion size, and specific ingredients used."
+    }
+  }
+}

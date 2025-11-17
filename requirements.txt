@@ -1,0 +1,13 @@
+faiss-cpu
+numpy
+PyMuPDF
+sentence-transformers
+langchain-text-splitters
+fastapi
+websockets
+groq
+python-dotenv
+nest-asyncio
+ultralytics
+pydantic
+uvicorn
